@@ -1,3 +1,3 @@
 # app-dev
 My first repository
-My crush is my girlfriend Eunice.
+My favorite food is Steak medium rare!
